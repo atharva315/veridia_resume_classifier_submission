@@ -70,10 +70,10 @@ An automated classification system that:
 
 | Metric | Score |
 |--------|-------|
-| **Test Accuracy** | 87.15% |
-| **Weighted F1-Score** | 86.40% |
-| **Precision** | 87.20% |
-| **Recall** | 87.15% |
+| **Test Accuracy** | 88.35% |
+| **Weighted F1-Score** | 87.56% |
+| **Precision** | 87.63% |
+| **Recall** | 88.35% |
 | **Training Time** | ~14 minutes (Tesla T4 GPU) |
 | **Total Parameters** | 110M (BERT-base) |
 
@@ -133,9 +133,7 @@ Veridia_Resume_Classifier_Submission/
 ├── result screenshot/
 │   └── [Application demo screenshots]
 │
-├── kaggle.json                        # Kaggle API credentials
-├── README.txt                         # Quick start guide
-├── PROJECT_REPORT.txt                 # Text version of report
+├── kaggle.json                        # Kaggle API credentials                         
 └── HOW TO RUN ON ANY DEVICE.docx     # Detailed execution instructions
 ```
 
@@ -165,7 +163,7 @@ Veridia_Resume_Classifier_Submission/
 
 3. **Download Pre-trained Model**
    - The trained model is available in the `model/resume_classifier_best/` directory
-   - Alternatively, download from [Google Drive](YOUR_DRIVE_LINK)
+   - Alternatively, download from [Google Drive](https://drive.google.com/drive/folders/1h7_Ypjlhb9SQTOakE84VbdX2hF-S-JA1)
 
 4. **Run the Application**
    ```bash
@@ -303,8 +301,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Atharva Gaikwad**  
 - GitHub: [@atharva315](https://github.com/atharva315)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: gaikwadatharva315@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/atharva-gaikwad-05493b282)
 
 **Project Link**: [https://github.com/atharva315/veridia-resume-classifier](https://github.com/atharva315/veridia-resume-classifier)
 
