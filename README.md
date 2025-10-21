@@ -263,7 +263,7 @@ Detailed per-class metrics available in `outputs/classification_report.txt`
 
 - **[PROJECT_REPORT.pdf](Project%20report/PROJECT_REPORT.pdf)**: Comprehensive project documentation
 - **[HOW TO RUN ON ANY DEVICE.docx](HOW%20TO%20RUN%20ON%20ANY%20DEVICE.docx)**: Step-by-step execution guide
-- **[README.txt](README.txt)**: Quick reference guide
+  
 
 ***
 
@@ -302,7 +302,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Atharva Gaikwad**  
 - GitHub: [@atharva315](https://github.com/atharva315)
 - Email: gaikwadatharva315@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/atharva-gaikwad-05493b282)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/atharva-gaikwad-05493b282)
 
 **Project Link**: [https://github.com/atharva315/veridia-resume-classifier](https://github.com/atharva315/veridia-resume-classifier)
 
@@ -346,4 +346,4 @@ Made with ❤️ by Atharva Gaikwad
 
 ***
 
-**Note**: Replace placeholder links (like `YOUR_DRIVE_LINK`, `your.email@example.com`, GitHub username, etc.) with your actual information before uploading to GitHub.
+
